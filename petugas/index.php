@@ -46,7 +46,7 @@
     </head>
     <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
     <body style="background:url(../img/Background2.jpg); background-size: cover;">
-
+	    
     <div class="row">
       <div class="col s12 m3">
           <ul id="slide-out" class="sidenav sidenav-fixed">
