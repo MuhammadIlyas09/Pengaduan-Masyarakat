@@ -55,7 +55,7 @@
 					<img width="100" src="../img/<?php echo $r['foto']; ?>">
 				<?php }
 				 ?>
-				<br><b>Pesan</b>
+				<br><b>Laporan</b>
 				<p><?php echo $r['isi_laporan']; ?></p>
 				<br><b>Respon</b>
 				<p><?php echo $r['tanggapan']; ?></p>
